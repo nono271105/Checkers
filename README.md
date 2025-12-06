@@ -1,4 +1,4 @@
-# React Checkers (Dames)
+# Jeu de Dames
 
 Mini-projet de jeu de dames en React avec Tailwind.
 

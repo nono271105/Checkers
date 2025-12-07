@@ -1,4 +1,9 @@
-# Jeu de Dames
+<h1 align="center">
+  Jeu de dames
+</h1>
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 Mini-projet de jeu de dames en React avec Tailwind.
 

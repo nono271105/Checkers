@@ -6,9 +6,12 @@
 [![Vite](https://img.shields.io/badge/build-vite-purple.svg)](https://vitejs.dev/)
 [![Tailwind CSS](https://img.shields.io/badge/styling-tailwind-38b2ac.svg)](https://tailwindcss.com/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Status: Active](https://img.shields.io/badge/status-Active-brightgreen.svg)](#)
 
 Une application React complète pour jouer aux dames (checkers) avec une **IA multi-niveaux** et une interface moderne. Implémentation du jeu classique avec algorithmes d'intelligence artificielle avancés et historique de mouvements.
+
+### 🚀 Démo en ligne
+
+Jouez dès maintenant sans installation : **[https://dames-nolhan.vercel.app/](https://dames-nolhan.vercel.app/)**
 
 ## Fonctionnalités
 
@@ -158,4 +161,8 @@ react-checkers/
 
 ## Licence
 
-Distribué sous la licence MIT.
+Distribué sous la licence MIT. Voir `LICENSE` pour plus d'informations.
+
+---
+
+**Dernière mise à jour** : 14 Décembre 2025
